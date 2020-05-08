@@ -1,0 +1,35 @@
+
+.dropdown-menu .cart {
+  min-width: 30vw;
+  min-height: 90vh;
+  padding: 15px 25px 0;
+  font-family: "Lato";
+  color: rgb(0, 0, 0);
+  background-color: white;
+}
+
+.dropdown-menu .cart .row > div {
+  padding: 0 0 10px 0;
+}
+
+.dropdown-menu .cart .totalPrice {
+  position: absolute;
+  bottom: 2%;
+  font-size: 120%;
+  font-weight: bold;
+  padding: 15px 0;
+}
+.dropdown-menu .cart .checkout {
+  position: absolute;
+  bottom: 2%;
+  right: 1%;
+}
+
+.nav {
+  background-color: #011233;
+  height: 7vh;
+  font-size: 16px;
+  justify-content: center;
+  text-align: center;
+  padding-top: 1%;
+}
